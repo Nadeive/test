@@ -2,3 +2,8 @@ h1 {
     text-align: center;
     color: purple;
 }
+
+h2 {
+    text-align: right;
+    color: salmon;
+}
